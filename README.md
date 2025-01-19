@@ -7,4 +7,3 @@ The version that you will be cloning is a slightly older version and a demo of t
 Advice from your instructor
 You might feel lost at first, but try your best to complete as much as you can. Inspecting elements is just fine. We designed these assignments to be challenging so we expect you to struggle. Many before have managed to do it, and so will you.
 
-The starter kit which you will download and use already comes with a completed navbar. You don't need to work on the navbar for this assignment.
