@@ -1,5 +1,6 @@
 # Project-Newsweek
- Newsweek clone Assignment 
+ Newsweek clone Assignment .
+ 
 This is your second assignment and you will be using Bootstrap to clone Newsweek.
 
 The version that you will be cloning is a slightly older version and a demo of the solution can be found here (https://altcademy.github.io/newsweek_clone/).
